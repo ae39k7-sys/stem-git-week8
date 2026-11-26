@@ -3,5 +3,6 @@
 int main(void)
 {
     printf("2 + 3 = %d\n", 2 + 3);
+    printf("5 - 2 = %d\n", 5 - 2);
     return 0;
 }
